@@ -49,8 +49,8 @@ content-hash = "3bd327f71611be489b9b8d8d44968714b42e4f55f58d87c8c8e96aaecf0fd5fd
 
 [metadata.files]
 j2cli = [
-    {file = "j2cli-0.3.10-py2.py3-none-any.whl", hash = "sha256:b005a40750b7b7c1c4c6e7209dc2bd6d10dee8a93a939d80884f2e2fb427d343"},
-    {file = "j2cli-0.3.10.tar.gz", hash = "sha256:6f6f643b3fa5c0f72fbe9f07e246f8e138052b9f689e14c7c64d582c59709ae4"},
+    {file = "j2cli-0.3.12b-py2.py3-none-any.whl", hash = "sha256:b005a40750b7b7c1c4c6e7209dc2bd6d10dee8a93a939d80884f2e2fb427d343"},
+    {file = "j2cli-0.3.12b.tar.gz", hash = "sha256:6f6f643b3fa5c0f72fbe9f07e246f8e138052b9f689e14c7c64d582c59709ae4"},
 ]
 jinja2 = [
     {file = "Jinja2-2.11.2-py2.py3-none-any.whl", hash = "sha256:f0a4641d3cf955324a89c04f3d94663aa4d638abe8f733ecd3582848e1c37035"},
