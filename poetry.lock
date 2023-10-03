@@ -1,6 +1,6 @@
 [[package]]
 name = "j2cli"
-version = "0.3.10"
+version = "0.3.12b"
 description = "Command-line interface to Jinja2 for templating in shell scripts."
 category = "main"
 optional = false
